@@ -215,7 +215,7 @@ const Portfolio: React.FC = () => {
                     </div>
                     <div>
                       <h4 className="font-semibold text-blue-400">XII (CBSE) - 88%</h4>
-                      <p className="text-gray-300">Mothers' Public School, Bhubaneswar</p>
+                      <p className="text-gray-300">Mothers&apos; Public School, Bhubaneswar</p>
                       <p className="text-sm text-gray-400">2021 – 2023</p>
                     </div>
                   </div>
