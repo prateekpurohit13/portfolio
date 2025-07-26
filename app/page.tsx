@@ -110,7 +110,6 @@ const Portfolio: React.FC = () => {
   return (
     <>
       <Head>
-        <br></br>
         <title>Prateek Purohit - Software Engineer & Security Specialist</title>
         <meta name="description" content="Computer Science student at VIT specializing in cybersecurity, full-stack development, and API security." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -148,7 +147,7 @@ const Portfolio: React.FC = () => {
                 Prateek <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-400">Purohit</span>
               </h1>
               <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
-                Computer Science Student & Aspiring Security Specialist
+                Computer Science Student & Security Specialist
               </p>
               <p className="text-lg text-gray-400 mb-8 max-w-2xl mx-auto">
                 Passionate about cybersecurity, full-stack development, and building secure, scalable applications. 
@@ -160,7 +159,7 @@ const Portfolio: React.FC = () => {
                   Contact Me
                 </a>
                 <a 
-                  href="https://drive.google.com/file/d/1gqB0yINVPt3lwP_yL8F6MDXf4mv9Hn2V/view?usp=sharing" 
+                  href="https://drive.google.com/file/d/1gqB0yINVPt3lwP_yL8F6MDXf4mv9Hn2V/view?usp=drive_link" 
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 bg-gray-800 hover:bg-gray-700 text-white px-6 py-3 rounded-lg transition-colors"
@@ -196,12 +195,12 @@ const Portfolio: React.FC = () => {
               <div className="grid md:grid-cols-2 gap-8">
                 <div>
                   <p className="text-gray-300 mb-4">
-                    I'm a Computer Science student at Vellore Institute of Technology with a strong passion for 
+                    I&apos;m a Computer Science student at Vellore Institute of Technology with a strong passion for 
                     cybersecurity and full-stack development. Currently maintaining a CGPA of 8.96/10.0, I specialize 
                     in building secure, scalable applications and conducting security research.
                   </p>
                   <p className="text-gray-300 mb-4">
-                    As a Core Committee Member at ACM VIT Chapter, I've contributed to various technical initiatives 
+                    As a Core Committee Member at ACM VIT Chapter, I&apos;ve contributed to various technical initiatives 
                     including CTF competitions and educational workshops. My projects range from API security scanners 
                     to cryptographic password managers, always with a focus on security and performance.
                   </p>
@@ -379,7 +378,7 @@ const Portfolio: React.FC = () => {
               <div className="grid md:grid-cols-2 gap-8">
                 <div>
                   <p className="text-gray-300 mb-6">
-                    I'm always interested in discussing new opportunities, collaborating on projects, 
+                    I&apos;m always interested in discussing new opportunities, collaborating on projects, 
                     or just connecting with fellow developers and security enthusiasts. Feel free to reach out!
                   </p>
                   <div className="space-y-4">
